@@ -1,4 +1,4 @@
-yname: Report de bug
+name: Report de bug
 description: Report un bug sur un plugin Squid
 title: "[BUG]"
 labels: 
